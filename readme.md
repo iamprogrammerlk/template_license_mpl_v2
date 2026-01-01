@@ -164,8 +164,8 @@ See [license][license_md] for more information.
 
 # ©️ Copyright
 
-- Copyright © 2025 🇱🇰 I am Programmer [@iamprogrammerlk][iamprogrammer_github].
-- Copyright © 2025 ❤️ [Contributors][contributors].
+- Copyright © 2026 🇱🇰 I am Programmer [@iamprogrammerlk][iamprogrammer_github].
+- Copyright © 2026 ❤️ [Contributors][contributors].
 
 <br>
 <br>
